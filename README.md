@@ -1,1 +1,5 @@
-# hello-boi
+#include<stdio.h>
+void main()
+{
+printf("hello boi...!!!");
+}
